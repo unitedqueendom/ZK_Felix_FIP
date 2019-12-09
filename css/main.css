@@ -1,0 +1,199 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family:sans-serif;
+}
+
+.container{
+	width: 980px;
+	margin: 0 auto;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.topbar ul{
+	background-image:
+    	radial-gradient(white, #CDCDCD);
+    margin-bottom: 10px;
+    height: 42px;
+    border-radius: 6px;
+    margin-top: 20px;
+    width: 980px;
+}
+.topbar ul li{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.topbar ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 15px
+}
+.topbar ul li,.searchbar{
+	display: inline-block;
+}
+.topbaritem{
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: 1px solid #E9EAE9;
+	height: 42px;
+	margin-right: 10px;
+}
+
+#Logo {
+	height: 42px;
+	width: 51px;
+	border-radius: 8px 0px 0px 8px;
+}
+
+.searchbar {
+	vertical-align: top;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+
+.searchbar input,label {
+	vertical-align: top;
+	border-radius: 10px 0px 0px 10px;
+	border:transparent;
+	padding-bottom: 5px;
+	width: 130px;
+}
+
+#search {
+	background-color: transparent;
+	border:transparent;
+	margin-right: 20px;
+}
+
+.titlesplashpage img {
+	width: 980px;
+	height: 500px;
+}
+
+.titlesplashpage img, nav {
+	vertical-align: top;
+}
+
+}
+
+.middlesection {
+	width: 980px;
+}
+
+#sectionbigbox {
+	border:1px solid #F4F6F5;
+	width: 980px;
+	height: 270px;
+}
+
+.section h3 {
+	font-size: 20px;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.section {
+	display: inline-block;
+	width: 350px;
+	margin-top: 20px;
+	height: 240px;
+	margin-left: 10px;
+	vertical-align: top;
+}
+
+.section1 {
+	display: inline-block;
+	width: 280px;
+	margin-top: 20px;
+	height: 240px;
+	margin-left: 15px;
+	vertical-align: top;
+}
+
+.section p {
+	font-size: 12px;
+	margin-left: 12px;
+	margin-top: 10px;
+	vertical-align: top;
+}
+
+.pic {
+	height: 170px;
+	width: 300px;
+	margin-left: 10px;
+	margin-top: 10px;
+	vertical-align: top;
+}
+
+.pic1 {
+	height: 240px;
+	width: 290px;
+	margin-left: 10px;
+	margin-top: 10px;
+	vertical-align: top;
+}
+
+.bottomnavarea {
+	border-bottom: 1px solid #E9EAE9;
+	padding-bottom: 40px;
+}
+
+.bottomnavarea nav {
+	display: inline-block;
+	width: 225px;
+	vertical-align: top;
+	margin-right: 20px;
+}
+
+h5 {
+	border-bottom: 1px solid #E9EAE9;
+	margin-top: 30px;
+	font-size: 10px;
+	padding-right: 60px;
+	padding-bottom: 10px;
+}
+
+.bottomnavarea nav ul li {
+	font-size: 9px;
+	margin-top: 10px;
+}
+
+footer p,a {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+	font-size: 8px;
+}
+
+a {
+	color: #2376C8;
+}
+
+.aboutush2 {
+	text-align: center;
+}
+
+.aboutuscontainer {
+	width: 980px;
+	background-color: #ccc;
+	line-height: 30px;
+}
+
+.h1title {
+	text-align: center;
+		background-image:
+    	radial-gradient(white, #CDCDCD);
+
+}
+
+.subbutton {
+	margin-left: 375px;
+	margin-top: 10px;
+}
